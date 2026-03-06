@@ -1,0 +1,19 @@
+# Web Framework
+fastapi
+uvicorn
+
+# AI & Orchestration
+langgraph
+langchain-openai
+langchain-core
+
+# Infrastructure & Database
+psycopg2-binary
+python-dotenv
+
+# Azure Integration
+azure-storage-blob
+azure-identity
+
+# Validation
+pydantic
